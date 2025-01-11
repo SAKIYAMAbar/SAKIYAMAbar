@@ -1,15 +1,12 @@
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAKIYAMAbar&theme=dracula) 
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirai8955&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mirai8955&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mirai8955&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mirai8955&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mirai8955&theme=gruvbox&utcOffset=9)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SAKIYAMAbar&theme=dracula&column=8
-)](https://github.com/ryo-ma/github-profile-trophy)
-
-<p>
-  </a>
-  <a href="https://github.com/SAKIYAMAbar">
-    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAKIYAMAbar&layout=compact&theme=tokyonight" />
-  </a>
-  
-  <a href="https://github.com/SAKIYAMAbar">
-    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=SAKIYAMAbar&count_private=true&show_icons=true&theme=tokyonight" />
-  
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mirai8955/mirai8955/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mirai8955/mirai8955/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mirai8955/mirai8955/output/github-contribution-grid-snake.svg">
+</picture>
